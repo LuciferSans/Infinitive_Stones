@@ -1,0 +1,14 @@
+table, th, td {
+  border-style: outset;
+}
+body{
+  background-image: linear-gradient(to bottom right,#11d6c6,#2227b5);
+}
+.image_gif{
+  width:300px;
+  height: 300px
+}
+.all_img{
+  width:500px;
+  height:500px
+}
